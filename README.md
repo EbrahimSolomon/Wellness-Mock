@@ -2,7 +2,6 @@
 # Wellness-Mock
 
 A small React + Vite + Tailwind prototype of a wellness booking & loyalty app.  
-This fork removes the image logo and shows a text header (“wellness - app”).
 
 ## Tech Stack
 - React 19 + Vite 7
